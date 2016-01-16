@@ -1,0 +1,20 @@
+﻿  fsObjects.cpp
+  Generating Code...
+  Compiling...
+  testcpp.cpp
+f:\cplusplus\150928lesson\flightshooting\flightshooting\fsdraw.h(39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+f:\cplusplus\150928lesson\flightshooting\flightshooting\fsdraw.h(47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+f:\cplusplus\150928lesson\flightshooting\flightshooting\fsdraw.h(57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+f:\cplusplus\150928lesson\flightshooting\flightshooting\fsdraw.h(65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+f:\cplusplus\150928lesson\flightshooting\flightshooting\fstest.h(16): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+f:\cplusplus\150928lesson\flightshooting\flightshooting\fstest.h(87): warning C4305: 'initializing': truncation from 'int' to 'char'
+f:\cplusplus\150928lesson\flightshooting\flightshooting\fstest.h(87): warning C4309: 'initializing': truncation of constant value
+f:\cplusplus\150928lesson\flightshooting\flightshooting\fstest.h(91): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(455): note: see declaration of 'getche'
+f:\cplusplus\150928lesson\flightshooting\flightshooting\fstest.h(60): warning C4101: 'data': unreferenced local variable
+f:\cplusplus\150928lesson\flightshooting\flightshooting\fstest.h(172): warning C4305: 'initializing': truncation from 'int' to 'char'
+f:\cplusplus\150928lesson\flightshooting\flightshooting\fstest.h(172): warning C4309: 'initializing': truncation of constant value
+f:\cplusplus\150928lesson\flightshooting\flightshooting\fstest.h(179): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(455): note: see declaration of 'getche'
+  Generating Code...
+  flightShooting.vcxproj -> F:\cplusplus\150928lesson\flightShooting\Debug\flightShooting.exe
